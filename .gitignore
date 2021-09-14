@@ -3,3 +3,4 @@ terraform.tfvars
 /.env.sh
 .idea
 **/.terraform.lock.hcl
+*/.DS-Store
